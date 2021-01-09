@@ -1,0 +1,55 @@
+.top-container{
+    background-color: #204051;
+    text-align: center;
+
+}
+h1{
+    color:whitesmoke;
+    font-family: 'Alegreya', serif;
+}
+body{
+    background-color: #84A9AC;
+    text-align: center;
+}
+.profile{
+    border-radius: 80%;
+    height: 200px;
+    margin: 30px auto;
+}
+.heading{
+    color: #204051;
+    font-weight: bold;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 60px;
+}
+.para{
+    font-family: 'Indie Flower', cursive;
+}
+hr{
+    border-style: solid;
+    border-width: 1px;
+    margin: 20px auto;
+    width: 40%;
+    
+}
+h5{
+    
+}
+
+.hall{
+    height: 200px;
+    border-radius: 20%;
+}
+.differ{
+    color: #204051;
+    margin: 20px 0 20px;
+}
+.fab{
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px ;
+    border-radius: 10%;
+}
+.container-fluid{
+    padding: 3% 20%;
+}
